@@ -1,1 +1,4 @@
 # I am ignoring the following files
+Third/
+*.html
+!myfirst
